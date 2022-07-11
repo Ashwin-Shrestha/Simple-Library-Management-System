@@ -1,0 +1,11 @@
+The Lord of the Rings, J. R. R. Tolkien,29, 10
+The Alchemist, Paulo Coelho, 20, 5
+Da Vinci Code, Dan Brown,15, 15
+Don Quixote, Miguel de Cervantes,18, 15
+The Catcher in the Rye,  J. D. Salinger,18, 19
+Anne of Green Gables, Lucy Maud Montgomery, 20, 14
+Kaala Ghoda, Anna Sewell, 30, 15
+Harry Potter and the Philosopher's Stone, J. K. Rowling,24, 9
+The Name of the Rose, Umberto Eco, 20, 8
+The Tale of Peter Rabbit, Beatrix Potter,1, 6
+The Book Thief, Markus Zusak, 30, 6

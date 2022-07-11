@@ -1,0 +1,9 @@
+---------------------------Book Borrow Notice----------------------------------------------
+
+Name of the person :Ashwin Shrestha
+Date Issued:2021-09-05
+Time of issue:20:41:02.506535
+Total price: 25$
+Books Borrowed: 
+The Catcher in the Rye
+The Tale of Peter Rabbit
